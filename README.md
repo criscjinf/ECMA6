@@ -2,7 +2,7 @@
 Exemplos de códigos com as novas funcionalidades do ECMA Script 6
 
 Dependências:
-Node JS - Caso queira rodar os arquivos pelo node
+Node JS - Caso queira rodar os arquivos pelo node<br>
 Navegador com suporte a ECMA Script 6
 
 ## Para testar os arquivos basta rodar o comando:
