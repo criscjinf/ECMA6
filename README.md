@@ -1,7 +1,7 @@
 # ECMA6
 Exemplos de códigos com as novas funcionalidades do ECMA Script 6
 
-Dependências:
+## Dependências:
 Node JS - Caso queira rodar os arquivos pelo node<br>
 Navegador com suporte a ECMA Script 6
 
